@@ -1,0 +1,8 @@
+# This repo is an Unreal content plugin; the project-level folders (Saved/,
+# DerivedDataCache/...) live in the ADK. Build output the plugin may get:
+Binaries/
+Intermediate/
+__pycache__/
+*.pyc
+*.bak
+.DS_Store
