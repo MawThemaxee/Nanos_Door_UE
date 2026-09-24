@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 *.bak
 .DS_Store
+
+# Per-machine exporter settings (see export_doors.py)
+Content/Python/export_doors_local.py
